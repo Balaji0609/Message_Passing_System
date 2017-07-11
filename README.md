@@ -1,2 +1,2 @@
 # Message_Passing_System
-We create a message passing system from scratch using MPI library.
+We created a non premptive OS scheduler using MPI library.
